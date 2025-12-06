@@ -1,0 +1,9 @@
+{
+  "name": "AgriGuard AI",
+  "description": "A farmer-centric platform for real-time crop health monitoring, advisory, and government analytics using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
