@@ -6,6 +6,7 @@
 
 This contains everything you need to run your app locally.
 
+Deployment: https://agriguard-ai-424828868012.us-west1.run.app/
 View your app in AI Studio: https://ai.studio/apps/drive/1kyeBkutdZMlNxWgHY6AHyG_iYVoYTDsb
 
 ## Run Locally
